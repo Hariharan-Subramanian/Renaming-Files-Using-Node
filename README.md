@@ -1,0 +1,2 @@
+# Renaming-Files-Using-Node
+This Functionality i created for my own use. Mostly i would like to organize all the music files name with album name. So if i get the new album each time i have to manually append the Album name with each track. For that reason i created this functionality. If you want to use this Functionality . You need to mention the folder path, renaming file extension path and sub file renaming option. 
